@@ -1,7 +1,7 @@
 # Desafio Estágio Target Sistemas
 
 ---
-###arquivo um.py
+### arquivo um.py
 
 1) Observe o trecho de código abaixo:
 int INDICE = 13, SOMA = 0, K = 0;
@@ -14,12 +14,12 @@ Imprimir(SOMA);
 Resposta: 91
 
 ---
-###arquivo dois.py
+### arquivo dois.py
 
 2) Dado a sequência de Fibonacci, onde se inicia por 0 e 1 e o próximo valor sempre será a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), escreva um programa na linguagem que desejar onde, informado um número, ele calcule a sequência de Fibonacci e retorne uma mensagem avisando se o número informado pertence ou não a sequência.
 
 ---
-###arquivo tres.py
+### arquivo tres.py
 
 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 • O menor valor de faturamento ocorrido em um dia do mês;
@@ -31,7 +31,7 @@ a) Usar o json ou xml disponível como fonte dos dados do faturamento mensal;
 b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Estes dias devem ser ignorados no cálculo da média;
 
 ---
-###arquivo quatro.py
+### arquivo quatro.py
 
 4) Dado o valor de faturamento mensal de uma distribuidora, detalhado por estado:
 • SP – R$67.836,43
@@ -43,7 +43,7 @@ b) Podem existir dias sem faturamento, como nos finais de semana e feriados. Est
 Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora. 
 
 ---
-###arquivo cinco.py
+### arquivo cinco.py
 
 5) Escreva um programa que inverta os caracteres de um string.
 
